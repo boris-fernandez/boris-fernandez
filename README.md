@@ -9,6 +9,7 @@
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boris-fernandez-cabrera-0723572a7)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:borisfernandezcabrera954@gmail.com)
 
 # 💻Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,python,github,git)](https://skillicons.dev)
