@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi there! I'm Boris Fernández, an enthusiastic 18-year-old Software Engineering student from Peru. From a young age, I have had a deep interest in technology and programming, which has led me on a continuous journey of learning and self-improvement.
+👋 Hi there! I'm Boris Fernandez, an enthusiastic 18-year-old Software Engineering student from Peru. From a young age, I have had a deep interest in technology and programming, which has led me on a continuous journey of learning and self-improvement.
 
 💻 Currently, I am developing my skills in various programming languages and tools, participating in multiple projects that allow me to apply my theoretical knowledge to practical situations. Each project is an opportunity for growth and self-challenge.
 
