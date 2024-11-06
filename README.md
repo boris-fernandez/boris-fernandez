@@ -14,6 +14,3 @@
 # 💻Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,python,github,git)](https://skillicons.dev)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
