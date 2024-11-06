@@ -5,8 +5,6 @@
 
 🚀 My goal is to contribute to innovative projects and collaborate with other development enthusiasts to create impactful solutions. I am excited about the opportunities the future holds and ready to tackle new challenges in the software world.
 
-🔗 Feel free to explore my repositories! I am open to collaborating and learning from others in this exciting field.
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boris-fernandez-cabrera-0723572a7)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:borisfernandezcabrera954@gmail.com)
