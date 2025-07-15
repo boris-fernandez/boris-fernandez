@@ -41,6 +41,7 @@ I'm an enthusiastic **Software Engineering** student and aspiring **Fullstack De
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![AZURE](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![Kafka](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
 
 ---
 
