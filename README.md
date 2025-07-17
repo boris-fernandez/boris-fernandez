@@ -28,7 +28,6 @@ I'm an enthusiastic **Software Engineering** student and aspiring **Fullstack De
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 [![Cassandra](https://skillicons.dev/icons?i=cassandra)](https://skillicons.dev)
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" height="40"/>
 
