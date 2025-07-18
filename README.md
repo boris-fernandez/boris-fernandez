@@ -29,6 +29,7 @@ I'm an enthusiastic **Software Engineering** student and aspiring **Fullstack De
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![Cassandra](https://skillicons.dev/icons?i=cassandra)](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" height="40"/>
 
 ### ⚙️ Frameworks y Librerías
@@ -40,7 +41,6 @@ I'm an enthusiastic **Software Engineering** student and aspiring **Fullstack De
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![AZURE](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
-[![Kafka](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
 
 ---
 
