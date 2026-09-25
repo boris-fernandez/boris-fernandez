@@ -21,6 +21,7 @@ I'm an enthusiastic **Software Engineering** student and aspiring **Fullstack De
 ### 🧠 Lenguajes
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
 ### 🗄️ Bases de Datos
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
